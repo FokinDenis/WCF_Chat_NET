@@ -1,0 +1,15 @@
+C:\Users\Asus X555L\source\repos\WCF_Chat_NET\ChatClient\obj\Debug\ChatClient.csprojAssemblyReference.cache
+C:\Users\Asus X555L\source\repos\WCF_Chat_NET\ChatClient\obj\Debug\App.g.cs
+C:\Users\Asus X555L\source\repos\WCF_Chat_NET\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+C:\Users\Asus X555L\source\repos\WCF_Chat_NET\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\Asus X555L\source\repos\WCF_Chat_NET\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\Asus X555L\source\repos\WCF_Chat_NET\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\Asus X555L\source\repos\WCF_Chat_NET\ChatClient\obj\Debug\MainWindow.g.cs
+C:\Users\Asus X555L\source\repos\WCF_Chat_NET\ChatClient\obj\Debug\ChatClient_MarkupCompile.lref
+C:\Users\Asus X555L\source\repos\WCF_Chat_NET\ChatClient\obj\Debug\MainWindow.baml
+C:\Users\Asus X555L\source\repos\WCF_Chat_NET\ChatClient\obj\Debug\ChatClient.g.resources
+C:\Users\Asus X555L\source\repos\WCF_Chat_NET\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\Users\Asus X555L\source\repos\WCF_Chat_NET\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+C:\Users\Asus X555L\source\repos\WCF_Chat_NET\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\Asus X555L\source\repos\WCF_Chat_NET\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\Asus X555L\source\repos\WCF_Chat_NET\ChatClient\obj\Debug\ChatClient.pdb

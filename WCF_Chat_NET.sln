@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCF_Chat_NET", "WCF_Chat_NET\WCF_Chat_NET.csproj", "{E514CDB0-7B2E-4EA9-8CD7-0430C611F545}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatHost", "ChatHost\ChatHost.csproj", "{874E015C-9EC4-4E44-B133-5E67680E27D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatClient", "ChatClient\ChatClient.csproj", "{C15C4D7B-92A6-4790-B821-CABA62EC6C74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E514CDB0-7B2E-4EA9-8CD7-0430C611F545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E514CDB0-7B2E-4EA9-8CD7-0430C611F545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E514CDB0-7B2E-4EA9-8CD7-0430C611F545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E514CDB0-7B2E-4EA9-8CD7-0430C611F545}.Release|Any CPU.Build.0 = Release|Any CPU
+		{874E015C-9EC4-4E44-B133-5E67680E27D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{874E015C-9EC4-4E44-B133-5E67680E27D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{874E015C-9EC4-4E44-B133-5E67680E27D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{874E015C-9EC4-4E44-B133-5E67680E27D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C15C4D7B-92A6-4790-B821-CABA62EC6C74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C15C4D7B-92A6-4790-B821-CABA62EC6C74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C15C4D7B-92A6-4790-B821-CABA62EC6C74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C15C4D7B-92A6-4790-B821-CABA62EC6C74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57165E02-927F-4652-AB1E-9C7DC97BD231}
+	EndGlobalSection
+EndGlobal

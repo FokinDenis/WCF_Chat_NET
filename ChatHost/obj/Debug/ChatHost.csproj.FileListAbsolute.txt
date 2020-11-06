@@ -1,0 +1,11 @@
+C:\Users\Asus X555L\source\repos\WCF_Chat_NET\ChatHost\bin\Debug\ChatHost.exe.config
+C:\Users\Asus X555L\source\repos\WCF_Chat_NET\ChatHost\bin\Debug\ChatHost.exe
+C:\Users\Asus X555L\source\repos\WCF_Chat_NET\ChatHost\bin\Debug\ChatHost.pdb
+C:\Users\Asus X555L\source\repos\WCF_Chat_NET\ChatHost\bin\Debug\WCF_Chat_NET.dll
+C:\Users\Asus X555L\source\repos\WCF_Chat_NET\ChatHost\bin\Debug\WCF_Chat_NET.pdb
+C:\Users\Asus X555L\source\repos\WCF_Chat_NET\ChatHost\bin\Debug\WCF_Chat_NET.dll.config
+C:\Users\Asus X555L\source\repos\WCF_Chat_NET\ChatHost\obj\Debug\ChatHost.csprojAssemblyReference.cache
+C:\Users\Asus X555L\source\repos\WCF_Chat_NET\ChatHost\obj\Debug\ChatHost.csproj.CoreCompileInputs.cache
+C:\Users\Asus X555L\source\repos\WCF_Chat_NET\ChatHost\obj\Debug\ChatHost.csproj.CopyComplete
+C:\Users\Asus X555L\source\repos\WCF_Chat_NET\ChatHost\obj\Debug\ChatHost.exe
+C:\Users\Asus X555L\source\repos\WCF_Chat_NET\ChatHost\obj\Debug\ChatHost.pdb
